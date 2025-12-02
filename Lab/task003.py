@@ -4,4 +4,5 @@
 r = float(input("Enter radius: "))
 pie = 3.14
 output = pie*(r**2)
-print(output)
+op = 3.14 * pow(r,2)
+print(output, op)
